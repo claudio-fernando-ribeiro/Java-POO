@@ -1,0 +1,2 @@
+Esse programa gera uma String comn o nome do item e o nome do proprietário, como organização.
+This program generates a String comn the name of the item and the name of the owner, such as organization.
