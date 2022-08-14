@@ -1,0 +1,2 @@
+Esse programa verifica a nota dos alunos, e imprimi o nome dos candidatos que tiveram nota superior a sete.
+This program checks the students' grades, and prints the names of candidates who have a grade greater than seven.
