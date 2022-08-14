@@ -1,0 +1,2 @@
+Esse programa gera uma String com o nome do setor, o nome do produto, o preço e o nome do fornecedor, depois retorna essa String.
+This program generates a String with the name of the sector, the name of the product, the price and the name of the supplier, then returns this String.
