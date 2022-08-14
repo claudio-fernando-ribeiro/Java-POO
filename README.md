@@ -1,2 +1,0 @@
-Esse programa foi realizado para inserir dois compradores, posteriormente, inserir seus itens nos seus respectivos carrinhos. 
-E por fim, apresentar o carrinho de compras de cada um dos compradores, com suas compras e o valor final.
